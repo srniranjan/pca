@@ -8,7 +8,7 @@ If at anytime you are stuck, you can reach out to one of our experts and chat wi
 
 # Java
 - Change directory to the `java` folder
-- Make sure you have Maven installed and availble on your PATH
+- Make sure you have Maven installed and available on your PATH
 - Change directory to the Maven project folder:  `askspock-pca`
 - Execute `mvn compile` and ensure it succeeds
 - Execute `mvn package` and ensure it succeeds
