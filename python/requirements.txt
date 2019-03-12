@@ -1,0 +1,6 @@
+mnist>=0.2.2
+numpy>=1.15.4
+matplotlib>=2.2.3
+scipy>=0.13.0b1
+pandas>=0.23.4
+scikit-learn==0.20
