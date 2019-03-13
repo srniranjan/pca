@@ -1,2 +1,3 @@
 java/askspock-pca/target/
+*.gz
 .DS_Store
